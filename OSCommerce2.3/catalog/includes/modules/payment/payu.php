@@ -28,7 +28,7 @@
 
 	  if(MODULE_PAYMENT_PAYU_TESTMODE=='TEST')
 
-		$this->form_action_url =  'https://test.payu.in/_payment.php';
+		$this->form_action_url =  'https://sandboxsecure.payu.in/_payment.php';
 
 	  else
 
